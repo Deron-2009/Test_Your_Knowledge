@@ -1,0 +1,28 @@
+input{
+    margin-top:20px;
+    padding:10px 25px;
+    font-weight:900;
+    background-color: aqua;
+}
+.main{
+    width:30%;
+    margin:0 auto;
+}
+form>input{
+    display:block;
+    margin-top:5px;
+    padding:0px;
+    font-weight: bold;
+    background-color: lightgrey;
+}
+.wrong{
+    font-weight: 10000;
+    background-color: hotpink;
+}
+.formclass{
+    display:none;
+}
+.right{
+    font-weight:1000;
+    background-color:mediumspringgreen;
+}
