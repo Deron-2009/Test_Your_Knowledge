@@ -43,7 +43,7 @@ form>input{
     font-size:100px;
 }
 
-@media screen and (max-width:680px){
+@media screen and (max-width:730px){
     body{
         background-color: wheat;
     }
